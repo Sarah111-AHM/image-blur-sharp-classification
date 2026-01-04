@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+#---
+# Data files
+data/
+*.jpg
+*.png
+*.jpeg
+#---
+# Results and models
+results/
+*.h5
+*.ckpt
+*.npy
+#---
+# IDE
+.vscode/
+.idea/
+*.log

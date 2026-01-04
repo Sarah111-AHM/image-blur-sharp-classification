@@ -26,7 +26,8 @@ a lightweight and interpretable approach for binary image blur detection using h
 
 This project focuses on extracting meaningful features from images instead of raw pixels, providing a **fast, efficient, and interpretable solution** for blur detection suitable for low-resource and real-time applications.
 
-![demo](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![demo](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+*Demo of blurred vs sharp images*
 
 ---
 
@@ -39,6 +40,9 @@ This project focuses on extracting meaningful features from images instead of ra
 - Optimized with **Adam optimizer** for fast convergence
 - Real-time and low-resource suitable
 
+![features_pipeline](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)  
+*Pipeline of feature extraction*
+
 ---
 
 ## Dataset
@@ -50,6 +54,9 @@ Publicly available datasets used for training and testing:
 
 > Note: Sample images are included in `data/sample_images/`, large datasets are not uploaded.
 
+![dataset](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+*Sample images from dataset*
+
 ---
 
 ## Model Architecture
@@ -59,7 +66,8 @@ Publicly available datasets used for training and testing:
 - **Loss Function:** Binary Cross-Entropy  
 - **Optimizer:** Adam or SGD  
 
-![architecture](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![architecture](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+*Illustration of MLP architecture*
 
 ---
 

@@ -3,7 +3,7 @@ lightweight and interpretable approach for binary image blur detection using han
 ---
 # Image Blur vs Sharp Classification
 
-![Python Version](https://img.shields.io/badge/python-3.10-blue)
+![Python Version](https://img.shields.io/badge/python-3.10-blue) 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-experimental-yellow)
 

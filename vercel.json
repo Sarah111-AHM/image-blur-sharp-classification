@@ -1,10 +1,10 @@
 {
   "functions": {
-    "api/predict.py": {
+    "api/*.py": {
       "maxDuration": 10
     }
   },
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/predict" }
+    { "source": "/(.*)", "destination": "/api/predict.py" }
   ]
 }

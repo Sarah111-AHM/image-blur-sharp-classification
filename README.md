@@ -45,7 +45,7 @@ The application uses **Feature Engineering** to analyze the input image:
 ```python api/index.py```
 
 ## Live Demo: [View VisionAI App](https://image-blur-sharp-classification-r85.vercel.app/)
-
+![فيديو VisionNeural](VisionNeural%20Record%20.mp4)
 ---
 
 
